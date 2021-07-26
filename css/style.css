@@ -1,0 +1,48 @@
+.body-container{
+  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
+  min-height: 1000px;
+  padding-top: 50px;
+}
+
+.card{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.137);
+}
+
+.card-image{
+  width: 3.15rem;
+  height: 3.15rem;
+}
+
+#formulario{
+  background-color: #eee;
+  margin-top: 3rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+table{
+  margin-top: 3rem;
+  box-shadow: 2px 2px 5px 3px rgba(0, 0, 0, 0.137);
+}
+
+#deletar img{
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+#btnDeletarTabela{
+  margin-bottom: 3rem;
+}
+
+#cards-prova{
+  background-color: #eee;
+}
+
+#cards-prova h3{
+  margin-top: 1rem;
+  text-align: center;
+}
